@@ -1,0 +1,3 @@
+Auction|<built-in function sum>|https://www.Auction.com|./1-Auction/target/Dec/fc-final-Aug.csv
+Adridgepite|<built-in function sum>|https://www.Auction.com|./5-Adridgepite/target/Dec/fc-final-Aug.csv
+RubinLublin|<built-in function sum>|https://www.Auction.com|./6-RubinLublin/target/Dec/fc-final-Aug.csv

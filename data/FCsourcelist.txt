@@ -1,0 +1,8 @@
+Jan|7th
+Action|http://www.auction.com|Foreclosure listing site|/fc-final-Jan-01.csv|978
+ForeclosureBidslist|https://www.foreclosurebidslist.com/|Foreclosure listing site|/fc-final-Jan-02.csv|1936
+McCalla & Raymer, LLP|http://www.foreclosurehotline.net/|Law Firm|/fc-final-Jan-03.csv|264
+Brock & Scott,LLP|https://www.brockandscott.com/foreclosure-sales/?_sft_foreclosure_state=ga|Law Firm|/fc-final-Jan-05.csv|110
+Adridgepite|http://saleday.aldridgepite.com/Listings|Law Firm|/fc-final-Jan-06.csv|237
+Rubin & Lublin,LLP|http://rubinlublin.com/property-listing/georgia-property-listings/|Law Firm|/fc-final-Jan-07.csv|194
+1440

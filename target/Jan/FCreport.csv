@@ -1,0 +1,6 @@
+Auction|978|https://www.auction.com|./2-Auction/target/Jan/fc-final-Jan-.csv
+Foreclosurebidslist|1936|https://www.foreclosurebidslist.com|./2-Foreclosurebidslist/target/Jan/fc-final-Jan-.csv
+MaCalla & Raymer|265|http://www.foreclosurehotline.net/Foreclosure.aspx|./3-McCallaRaymer/target/Jan/fc-final-Jan-.csv
+Brack & Scott|11|https://www.brockandscott.com/foreclosure-sales/?_sft_foreclosure_state=ga./4-BrockScott/target/Jan/fc-final-Jan.csv
+Adridgepite|238|https://aldridgepite.com/sale-day-listings-selection/foreclosure-listings-georgia/|./5-Adridgepite/target/Jan/fc-final-Jan-.csv
+RubinLublin|195|https://rlselaw.com/property-listing/georgia-property-listings/|./6-RubinLublin/target/Jan/fc-final-Jan-.csv
